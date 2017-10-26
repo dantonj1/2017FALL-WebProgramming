@@ -1,0 +1,65 @@
+body {
+  background-color: #FDF6F6; }
+
+nav {
+  background-color: #C31616;
+  color: #FDF6F6;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 0px; }
+
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0px;
+  position: fixed;
+  top: 0;
+  width: 100%; }
+
+.container-fluid {
+  border-radius: 0px; }
+
+a {
+  color: #FDF6F6; }
+
+a:hover {
+  color: #C31616;
+  text-decoration: none; }
+
+.dropdown-menu {
+  background-color: #C31616;
+  color: #FDF6F6; }
+
+.jumbotron {
+  background-color: #C31616;
+  border-radius: 0px;
+  margin-bottom: 80px;
+  padding: 80px; }
+
+h2 {
+  color: #FDF6F6;
+  font-size: 50px; }
+
+.small {
+  font-size: 12px;
+  color: #FDF6F6; }
+
+.whitetext {
+  color: #FDF6F6; }
+
+.contain {
+  width: 500px;
+  clear: both; }
+
+.contain input {
+  width: 100%;
+  clear: both; }
+
+.bsubmit {
+  width: 100px;
+  height: 30px; }
+
+.jus {
+  text-align: justify;
+  text-justify: inter-word; }
+
+/*# sourceMappingURL=main.bundle.css.map*/
